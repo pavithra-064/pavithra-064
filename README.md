@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Novice front end web developer.
+- Front end web developer.
 - SASTRA'24.
 - Coding Enthusiast.
 
